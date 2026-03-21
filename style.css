@@ -1,5 +1,5 @@
 
-/* HEADER */
+
 header {
   display: flex;
   justify-content: space-between;
@@ -30,7 +30,7 @@ nav a {
   text-transform: uppercase;
 }
 
-/* SERVICES */
+
 .services {
   font-family: "Montserrat", sans-serif;
   padding: 100px;
@@ -46,24 +46,24 @@ nav a {
     font-size: 40px;
      text-transform: uppercase;
 }
-/* карточка */
+
 .service-card {
   max-width: 300px;
 }
 
-/* иконка */
+
 .service-card img {
   margin-bottom: 20px;
 }
 
-/* заголовок */
+
 .service-card h3 {
   font-size: 18px;
   font-weight: 700;
   margin-bottom: 10px;
 }
 
-/* описание */
+
 .service-description {
   font-family: "Roboto Slab", serif;
   font-size: 14px;
