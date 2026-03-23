@@ -1,5 +1,6 @@
-
-
+body{
+  margin: 0;
+}
 header {
   display: flex;
   justify-content: space-between;
@@ -28,6 +29,11 @@ nav a {
   font-size: 14px;
   font-weight: 300;
   text-transform: uppercase;
+}
+ul {
+  display: flex;
+  list-style: none;
+  gap: 30px; 
 }
 
 
